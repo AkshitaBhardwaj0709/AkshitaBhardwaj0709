@@ -19,9 +19,9 @@ Machine Learning and Generative AI enthusiast with hands-on experience in buildi
 
 ## 🔹 Technical Skills
 
-- **Languages:** Python, C++, SQL  
+- **Languages:** Python, C++, Java, SQL  
 - **AI/ML:** Machine Learning, Generative AI, Data Analytics  
-- **Development:** Frontend & Backend, API Integration
+- **Software:** Full- Stack Development, API Integration, Deployment
 - **Core CS:** Data Structures & Algorithms, OOPs, Game Theory
 - **Tools:** Git, GitHub 
 
