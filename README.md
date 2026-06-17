@@ -8,7 +8,7 @@ Machine Learning & Generative AI Enthusiast | Software Developer | Building Inte
 
 ## 🚀 About Me
 
-- 🌱 Passionate about **Machine Learning, Generative AI, and Intelligent Systems**
+- 🌱 Passionate about **Software Development, Machine Learning & Generative AI**
 - 💡 Interested in applying AI to solve real-world problems
 - ⚡ Enjoy building end-to-end applications with strong algorithmic foundations
 - 🎯 Exploring advanced AI techniques, optimization, and data-driven solutions
