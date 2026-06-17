@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshita Bhardwaj</h1>
+<h1 align="center">Hi, I'm Akshita Bhardwaj</h1>
 
 <h3 align="center">
 Machine Learning & Generative AI Enthusiast | Software Developer | Building Intelligent Systems with Data and Algorithms
