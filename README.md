@@ -52,17 +52,8 @@ Software Developer | Machine Learning & Generative AI Enthusiast | Building Inte
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode" />
-</p>
-
----
-
-## ☁️ Deployment
-
-<p align="left">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
