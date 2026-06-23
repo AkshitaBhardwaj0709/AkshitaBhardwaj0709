@@ -40,7 +40,10 @@ Software Developer | Machine Learning & Generative AI Enthusiast | Building Inte
 
 ## ⭐Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,css,html"/>
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css3" />
 
 ---
 
