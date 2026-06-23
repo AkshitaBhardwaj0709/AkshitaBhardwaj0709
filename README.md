@@ -38,20 +38,16 @@ Software Developer | Machine Learning & Generative AI Enthusiast | Building Inte
 
 ---
 
-## 📈 Visualization
-
+## ⭐Frameworks
 <p align="left">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,css,html"/>
 
 ---
 
-## 🌐 Development & Frameworks
+## 🌐 Development & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
