@@ -18,7 +18,7 @@ Software Developer | Machine Learning & Generative AI Enthusiast | Building Inte
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+## 💻 Languages & Querying
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
